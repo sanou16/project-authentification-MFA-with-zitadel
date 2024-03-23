@@ -1,0 +1,28 @@
+{
+  "Products": [
+    {
+      "nom": "Pomme",
+      "Prix": "1560",
+      "Description": "pomme ",
+      "id": "9"
+    },
+    {
+      "id": "0e1a",
+      "nom": "Lait",
+      "Prix": "1500",
+      "Description": "Lait caillé"
+    },
+    {
+      "id": "9cf1",
+      "nom": "KODJO",
+      "prenom": "Souleymane",
+      "classe": "RT"
+    },
+    {
+      "id": "2fb2",
+      "nom": "OL",
+      "prenom": "LO",
+      "classe": "ll"
+    }
+  ]
+}

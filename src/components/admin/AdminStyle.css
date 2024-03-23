@@ -1,0 +1,219 @@
+/* src/components/admin/AdminProductList.css */
+
+/* .admin-Product-list {
+    margin: 20px;
+  }
+
+  .admin-Product-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .admin-Product-header h2 {
+
+    margin-bottom: 15px;
+  }
+
+  .admin-Product-btn {
+    padding: 10px 15px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .admin-Product-btn:hover {
+    background-color: #2980b9;
+  }
+ */
+
+/* src/components/admin/AdminProductList.css */
+
+.admin-Product-list {
+    margin: 20px;
+  }
+
+  .admin-Product-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .admin-Product-header h2 {
+    /* color: #e74c3c; */
+    color: black;
+    margin-bottom: 15px;
+  }
+
+  .admin-Product-btn {
+    padding: 10px 15px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .admin-Product-btn:hover {
+    background-color: #2980b9;
+  }
+
+  .admin-Product-list ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .admin-Product-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .admin-Product-link {
+    text-decoration: none;
+    color: black;
+    /* color: #e74c3c; */
+    font-weight: bold;
+  }
+
+  .admin-Product-link:hover {
+    text-decoration: underline;
+  }
+
+  .admin-Product-buttons {
+    display: flex;
+  }
+
+  .admin-edit-button,
+  .admin-delete-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .admin-edit-button {
+    background-color: #3498db;
+  }
+
+  .admin-delete-button {
+    background-color: #e74c3c;
+  }
+
+  .admin-edit-button:hover,
+  .admin-delete-button:hover {
+    opacity: 0.8;
+  }
+
+
+
+  /* src/components/admin/AdminProductForm.css */
+
+/* src/components/admin/AdminProductForm.css */
+
+.admin-Product-form {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .admin-Product-form h2 {
+
+    margin-bottom: 15px;
+  }
+
+  .admin-Product-form form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+
+  .admin-Product-form label {
+    margin-bottom: 10px;
+
+  }
+
+  .admin-Product-form input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+
+  .admin-Product-form button {
+    padding: 10px 15px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .admin-Product-form button:hover {
+    background-color: #2980b9;
+  }
+
+
+
+
+/* src/components/admin/AdminProductDetail.css */
+
+.admin-Product-detail {
+    margin: 20px;
+  }
+
+  .admin-Product-detail h2 {
+
+    margin-bottom: 15px;
+  }
+
+  .admin-Product-detail-info {
+    background-color: #f9f9f9;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .admin-Product-detail-label {
+    font-weight: bold;
+
+  }
+
+  .admin-Product-detail-value {
+    margin-bottom: 10px;
+  }
+
+  .admin-Product-buttons {
+    display: flex;
+    margin-top: 20px;
+  }
+
+  .admin-edit-button,
+  .admin-delete-button {
+    margin-right: 10px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .admin-edit-button {
+    background-color: #3498db;
+  }
+
+  .admin-delete-button {
+    background-color: #e74c3c;
+  }
+
+  .admin-edit-button:hover,
+  .admin-delete-button:hover {
+    opacity: 0.8;
+  }

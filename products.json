@@ -1,0 +1,102 @@
+{
+  "Products": [
+    {
+      "nom": "Acer Aspire Vero AV14-51-55EU Argent (30% recycle)",
+      "prix": "327",
+      "description": "Derrière un look un peu brut, l'Acer Aspire Vero AV14-51-55EU a bel et bien tout pour plaire. Son petit prix, sa très longue autonomie, son bel écran et ses agréments en nombre en font très certainement l'un des meilleurs petit 14 pouces du moment. Voyez plutôt.",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-36496-1-Acer-Aspire-Vero-AV14-51-57CJ-1.jpg",
+      "id": "22"
+    },
+    {
+      "nom": "HP 15-fc0039nf Gris – Ryzen 5",
+      "prix": 327289,
+      "description": "Design sobre pour le PC portable pas cher HP 15-fc0039nf à écran 15 pouces IPS Full HD antireflet performant en utilisation courante grâce à son processeur AMD Ryzen 5 7520U Mendocino Quad Core et ses 8 Go de mémoire vive. Doté d'un stockage SSD rapide de 512 Go qui renforce sa réactivité, cet ordinateur portable Windows 11 profite également d'une connectique avec Wi-Fi 6 et USB-C",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-37511-1-HP-15-fc0039nf-1.jpg",
+      "id": "23"
+    },
+    {
+      "nom": "HP 15-fc0071nf Argent – Ryzen 5",
+      "prix": 190300,
+      "description": "PC portable pas cher intéressant, l'HP 15-fc0071nf bénéficie d'une bonne quantité de mémoire vive de 16 Go et d'un processeur AMD Quad Core Ryzen 5 7520U Mendocino pour fournir de bonnes performances en utilisation courante. Doté d'un écran 15 pouces IPS Full HD antireflet, cet ordinateur portable Windows 11 profite d'un stockage SSD rapide de 512 Go qui renforce sa réactivité et d'une  connectique avec Wi-Fi 6",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-37283-1-HP-15-fc0036nf-1.jpg",
+      "id": "24"
+    },
+    {
+      "nom": "HP 17-cn2003sf Argent",
+      "prix": 359595,
+      "description": "Dalle IPS Full HD antireflet de 17 pouces pour le PC portable pas cher HP 17-cn2003sf paré pour la Haute Définition équipé d'un stockage SSD rapide de 512 Go qui renforce sa réactivité ainsi que d'une connectique USB-C. Cet Ultrabook argent polyvalent qui tourne sous Windows 11S axé sur la sécurité convient à une utilisation courante et du jeu léger grâce à son processeur Intel Alder Lake-U Core i3-1215U hybride à module graphique Iris Xe et ses 8 Go de mémoire vive",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-33617-1-HP-17-cn-2021-Argent-1.jpg",
+      "id": "25"
+    },
+    {
+      "nom": " Asus Vivobook 16 R1600PA-MB038W Argent",
+      "prix": 170350,
+      "description": "PC portable fin et léger polyvalent, l'Asus Vivobook 16 R1600PA-MB038W à écran 16 pouces IPS Full HD antireflet 16/10ème profite d'un processeur performant Intel Tiger Lake-H Quad Core i5-11300H à module graphique Iris Xe adapté au jeu léger. Doté de 8 Go de mémoire vive et d'un stockage SSD rapide de 512 Go qui renforce sa réactivité, cet Ultrabook Windows 11 au design argent élégant dispose par ailleurs d'une connectique USB-C",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-37060-1-Asus-Vivobook-16-R1600PA-MB038W-1.jpg ",
+      "id": "26"
+    },
+    {
+      "nom": " Asus VivoBook 14X S1403ZA KM116W Bleu – OLED 2.8K 90Hz",
+      "prix": 222000,
+      "description": "Écran Haute Fidélité et Haute Définition pour l'Asus Vivobook S14 S1403ZA-KM116W au design bleu fin et léger pourvu d'un écran 14 pouces 2.8K OLED 90Hz, de 8 Go de mémoire vive et d'un processeur performant Intel Core i5-12500H Alder Lake-H à partie graphique Iris Xe adapté au jeu léger tandis que le stockage SSD rapide de 512 Go renforce la réactivité.Cet Ultrabook Windows 11 au revêtement anti-bactérien dispose d'un obturateur webcam, d'un lecteur d'empreintes, d'un clavier rétro éclairé mais également d'une connectique avec Wi-Fi 6 et USB-C ",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-37651-1-Asus-Vivobook-S14-S1403ZA-KM116W-1.jpg ",
+      "id": "27"
+    },
+    {
+      "nom": "Honor MagicBook 14 2022 Gris ",
+      "prix": 190000,
+      "description": " Design aluminium élégant fin et léger pour l'Honor MagicBook 14 2022, PC portable polyvalent à écran IPS 2.2K sRGB aux couleurs plus fidèles que la moyenne et format 3:2 original performant grâce à son processeur hybride Core i5 Intel Alder Lake-H et ses 16 Go de RAM qui accélèrent les traitements multimédia. Doté d'un stockage SSD rapide de 512 Go qui renforce sa réactivité,cet Ultrabook nomade à l'autonomie de 7 heures sous Windows 11 est aussi équipé d'un clavier rétro éclairé, d'un lecteur d'empreintes ou encore d'une connectique avec Wi-Fi ax et USB-C",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-36374-1-Honor-MagicBook-14-2022-1.jpg ",
+      "id": "28"
+    },
+    {
+      "nom": "Medion Erazer Crawler E40 MD62563 Noir – RTX 4050, 144Hz ",
+      "prix": 298700,
+      "description": " De solides performances générales sont fournies par le PC portable gamer pas cher Medion Erazer Crawler E40 (MD62563) basé sur un processeur Intel Alder Lake-H Core i5-12450H et 16 Go de mémoire vive qui accélèrent les traitements multimédia à l'image de la carte graphique NVIDIA Ada Lovelace GeForce RTX 4050 ray tracing adaptée aux jeux récents. Doté d'un stockage SSD rapide de 512 Go qui renforce sa réactivité, cet ordinateur portable Windows 11 polyvalent conçu pour jouer et créer dispose d'un écran 15 pouces IPS Full HD antireflet dont la fréquence de 144Hz améliore la fluidité dans les jeux, d'un clavier rétro éclairé ou encore d'une connectique avec Wi-Fi 6E, double sortie vidéo et USB-C",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-37483-1-Medion-Erazer-Crawler-E40-(MD62518)-1.jpg ",
+      "id": "29"
+    },
+    {
+      "nom": "Medion Erazer Crawler E40 MD62563 Noir – RTX 4050, 144Hz ",
+      "prix": 342800,
+      "description": "De solides performances générales sont fournies par le PC portable gamer pas cher Medion Erazer Crawler E40 (MD62563) basé sur un processeur Intel Alder Lake-H Core i5-12450H et 16 Go de mémoire vive qui accélèrent les traitements multimédia à l'image de la carte graphique NVIDIA Ada Lovelace GeForce RTX 4050 ray tracing adaptée aux jeux récents. Doté d'un stockage SSD rapide de 512 Go qui renforce sa réactivité, cet ordinateur portable Windows 11 polyvalent conçu pour jouer et créer dispose d'un écran 15 pouces IPS Full HD antireflet dont la fréquence de 144Hz améliore la fluidité dans les jeux,d'un clavier rétro éclairé ou encore d'une connectique avec Wi-Fi 6E, double sortie vidéo et USB-C",
+      "image": "https://www.laptopspirit.fr/comparateur/Pc-portable/37706/Medion,Erazer+Crawler+E40+MD62563+Noir+-+RTX+4050%2C+144Hz.html#photosportable ",
+      "id": "30"
+    },
+    {
+      "nom": "Lenovo Yoga Pro 7 14IRH8 (82Y7006FFR) Argent – 2.5K 165Hz 90Hz ",
+      "prix": 634000,
+      "description": " Multimédia, le PC portable fin et léger polyvalent Lenovo Yoga Pro 7 14IRH8 (82Y7006FFR) au design aluminium élégant est performant grâce à son processeur Intel Raptor Lake-H Core i5-13500H hybride à partie graphique Iris Xe et ses 16 Go de RAM qui accélèrent les traitements.Adapté au jeu léger mais aussi pour regarder des photos et vidéos Haute Définition, cet ordinateur portable Windows 11 se pare d'un écran 14 pouces IPS 2.5K aux couleurs sRGB plus fidèles que la moyenne et fréquence de 90Hz qui améliore la fluidité, d'un clavier rétro éclairé, d'une webcam Infrarouge pour authentification facile ou encore d'une connectique avec Wi-Fi 6E et USB-C.",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-37648-1-Lenovo-Yoga-Pro-7-14IRH8-(82Y7006FFR)-1.jpg ",
+      "id": "31"
+    },
+    {
+      "nom": " MSI GF63 12VE-064XFR Thin – RTX 4050, 144Hz, Sans Windows",
+      "prix": 634000,
+      "description": "Le PC portable MSI GF63 12VE-064XFR Thin est un choix fantastique pour les joueurs exigeants à la recherche de performances exceptionnelles.Doté d'une carte graphique RTX 4050, il offre des graphismes de pointe et une expérience de jeu fluide. Son écran avec une fréquence de rafraîchissement de 144 Hz garantit une qualité visuelle immersive, idéale pour les jeux rapides.Ce modèle est également fourni sans Windows, ce qui offre aux utilisateurs la liberté de choisir leur système d'exploitation préféré et de personnaliser leur expérience. Il est équipé d'un processeur puissant et d'une grande capacité de stockage, permettant de gérer facilement les tâches multitâches et de stocker de nombreux jeux et fichiers.Avec son design mince et léger, le MSI GF63 est également très portable, ce qui en fait un compagnon idéal pour les joueurs en déplacement. De plus, la qualité de construction et la durabilité de la marque MSI sont bien connues, garantissant un investissement solide pour les années à venir. ",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-37016-1-msi-thin-gf63-12-2023-1.jpg ",
+      "id": "32"
+    },
+    {
+      "nom": "HP 15s-fq0088nf Gris ",
+      "prix": 98100,
+      "description": "Besoin d'un PC portable pas cher car votre budget est serré ? L'HP 15s-fq0081nf gris fin et léger à écran 15 pouces antireflet pourrait vous intéresser avec sa connectique USB-C et son stockage SSD rapide qui renforce sa réactivité. Conçu pour une utilisation bureautique, cet ordinateur portable Windows 11 s'appuie sur un processeur Intel Gemini Lake Celeron Quad Core très basse consommation d'entrée de gamme ",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-33079-1-HP-15s-fq2005nf-1.jpg ",
+      "id": "33"
+    },
+    {
+      "nom": "Huawei Mate 40 Pro",
+      "prix": "100000",
+      "description": "La Huawei Mate 40 Pro est un smartphone haut de gamme annoncé le 22 octobre 2020. Il est équipé d'un écran OLED de 6,76 pouces, d'un SoC Kirin 9000 épaulé et d'un triple capteur photo polyvalent avec TOF à l'arrière. Il fait tourner à son lancement Android 10 avec l'interface EMUI sans les applications Google dont le Play Store.",
+      "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2020/10/huawei-mate-40-pro-frandroid-2020-768x768.png?avif=1&resize=580,580&key=0ef91dc0",
+      "id": "35"
+    },
+    {
+      "id": "f41f",
+      "nom": "Acer-TravelMate",
+      "prix": "849",
+      "description": "15\" - 1920 * 1080 (Full HD) - Mat/antireflet - IPS - Core i5-1235U - Intel Iris Xe - 16 Go - SSD - 500 Go - 1,8 Kg",
+      "image": "https://www.laptopspirit.fr/comparateur/images/fiches/3/G-38915-2-Acer-TravelMate-P2-TMP215-54-929-2.jpg"
+    }
+  ]
+}
